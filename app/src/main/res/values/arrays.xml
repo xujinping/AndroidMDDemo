@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="categorys">
+        <item>线性垂直布局</item>
+        <item>线性水平布局</item>
+        <item>网格垂直布局</item>
+        <item>网格水平布局</item>
+        <item>流式布局</item>
+
+
+    </array>
+
+
+</resources>
